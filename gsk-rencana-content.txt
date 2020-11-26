@@ -1,0 +1,6 @@
+RENCANA KONTEN GSK
+
+- Javascript
+- PHP Frameworks
+- Interview
+- Vlogs
