@@ -1,6 +1,8 @@
 RENCANA KONTEN GSK
 
 - Javascript
+  * ES6
+  * Frameworl Javascript
 - PHP Frameworks
 - Interview
 - Vlogs
