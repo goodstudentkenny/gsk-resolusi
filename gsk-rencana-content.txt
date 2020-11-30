@@ -3,7 +3,10 @@ RENCANA KONTEN GSK
 - Javascript
   * ES6
   * Frameworl Javascript
+    ^ Angular
+    ^ React
   - Struktur Data Dasar
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
